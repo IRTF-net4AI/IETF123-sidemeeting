@@ -20,5 +20,5 @@ Those three observations have raised numerous questions in the Internet communit
 | --- | --- | --- |
 | 19:00 – 19:05 _(5 min)_ | Meeting setup and introduction of the topic  | N/A |
 | 19:05 – 19:25 _(20 min)_ | _Load balancing strategies in AIML networks_ by Costin Raiciu _(University Politechnica of Bucharest / Broadcom Inc.)_ | N/A |
-| 19:25 – 19:45 _(20 min)_ | _Lossy Network Transport for Large-Scale AI: Insights and Future Directions (tentative)_ by Ran Ben Basat _(University College London)_ | N/A |
+| 19:25 – 19:45 _(20 min)_ | _Lossy Network Transport for Large Scale AI_ by Ran Ben Basat _(University College London)_ | N/A |
 | 19:45 – 20:00 _(15 min)_ | Q&A and discussion on challenges to address in IRTF | N/A |
