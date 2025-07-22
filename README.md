@@ -13,6 +13,7 @@ Those three observations have raised numerous questions in the Internet communit
 ## Logistics: 
 * __Room:__ El Escorial
 * __Remote participation:__  https://ietf.webex.com/meet/ietfsidemeeting2 (IETF Webex)
+* __Notes:__ https://notes.ietf.org/C1q7q50FR7Ki9qqrSebY5A
 
 ## Agenda:
 
